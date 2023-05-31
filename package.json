@@ -1,0 +1,23 @@
+{
+  "name": "combinadics",
+  "version": "1.0.0",
+  "description": "Combinatorial number system (combinadics) implemented in Javscript and Swift",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyeh/combinadics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyeh/combinadics/issues"
+  },
+  "homepage": "https://github.com/keyeh/combinadics#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
